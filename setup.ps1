@@ -1,9 +1,5 @@
 # PSScriptInfo
 # .VERSION 1.0
-# .GUID 832fc4e3-e67d-46b8-bc8c-67dd7ce37b5c
-# .TAGS
-#     PowerShell,Ansible,WinRM,WMF,Hotfix
-# .PROJECTURI https://code.siemens.com/modules/powershell/ansible-setup-requirements/
 # .DESCRIPTION
 # Upgrades PowerShell version, installs WinRM hotfixes and activates WinRM.
 # Execution trace is logged in $env:SystemRoot\Temp\ansible_setup_requirements.log
